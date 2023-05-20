@@ -1,0 +1,34 @@
+/*inicia nosotros*/
+.historia{
+    font-size: 12px;
+ }
+
+ .personas{
+    display: flex;
+    justify-content: space-between;
+ }
+
+
+ .persona{
+    border: 1px solid #ccc ;
+    border-radius:5px ;
+    width: 25%;
+    text-align: center;
+    padding:10px ;
+    box-sizing: border-box;
+
+ }
+
+ .persona h5,
+ .persona h6{
+    margin: 0;
+    font-weight: normal;
+    color: rgb(66, 87, 87);
+ }
+
+ .persona p{
+    color: grey;
+    font-size: 10px;
+ }
+ 
+ /*finaliza nosotros*/

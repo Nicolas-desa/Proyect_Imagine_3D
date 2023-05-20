@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0; 
+  
+  font-family: 'open sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: black;
+  font-weight: 400;
+}
+
+
+header {
+  background-color: rgb(179, 175, 175);
+  
+  padding: 16px 0;
+  text-align: center;
+}
+
+header h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: 100;
+  font-style: italic;
+  display: inline-block;
+  /*position: relative;
+  bottom: 35px;*/
+  margin-left: 10px;
+}
+
+footer {
+  background-color: rgb(179, 175, 175);
+  clear: both;
+  color: #333;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 200px;
+}
